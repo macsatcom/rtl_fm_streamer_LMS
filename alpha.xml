@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<extensions>
+  <details>
+    <title lang="EN">RTLFM Lyrion Plugin</title>
+  </details>
+  <plugins>
+    <plugin name="RTL_FM_Streamer" version="0.1" target="windows|mac|unix" minTarget="7.6" maxTarget="10.0">
+      <title lang="EN">RTLFM Lyrion Plugin</title>
+      <desc lang="EN">Adds a menu with RTLFM  radio stations, that streams from RTL_FM_Streamer running on your network</desc>
+      <creator>Kasper Skjødt Nielsen</creator>
+      <url>https://github.com/macsatcom/rtl_fm_streamer_LMS/archive/refs/tags/0.1.zip</url>
+      <link>https://github.com/macsatcom/rtl_fm_streamer_LMS</link>
+      <sha1>5434fc285ae342afba26cb1c04feb831197553a6</sha1>
+    </plugin>
+  </plugins>
+</extensions>
