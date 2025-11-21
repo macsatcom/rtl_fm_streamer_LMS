@@ -1,0 +1,2 @@
+RTLFM=RTL FM Radio
+RTLFM.CONFIG=RTL FM Configuration

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<extension>
+  <name>RTL FM Radio</name>
+  <creator>Kasper Skjodt Nielsen</creator>
+  <defaultState>enabled</defaultState>
+  <description>RTL FM Radio service (streams from rtl_fm_streamer)</description>
+  <email>you@example.com</email>
+  <category>musicservices</category>
+  <id>3d449c42-357d-4657-851f-cba7f16b15b5</id>
+  <module>Plugins::RTLFM::Plugin</module>
+  <onlineLibrary>true</onlineLibrary>
+  <optionsURL>plugins/RTLFM/html/settings/rtlfm.html</optionsURL>
+  <targetApplication>
+    <id>SqueezeCenter</id>
+    <minVersion>7.7</minVersion>
+    <maxVersion>*</maxVersion>
+  </targetApplication>
+  <type>2</type>
+  <version>0.2</version>
+</extension>
